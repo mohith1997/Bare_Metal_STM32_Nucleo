@@ -3,7 +3,7 @@ Embedded Bare Metal Programming for STM32_NUCLEO-F446RE. This tutorial, by Mohit
 
 Whether you're a beginner or an experienced developer, this tutorial is designed to help you gain a deeper understanding of the underlying concepts of embedded systems and bare metal programming. By following the examples provided in the tutorial, you will learn how to code efficient and reliable programs that can run without an operating system or other software layers.
 
-The code examples, documentation, and resources provided in this tutorial are based on my personal experience and learning journey. It is hoped that this tutorial will be a valuable resource for those looking to learn and master the fundamentals of bare metal programming on the STM32-NUCLEO-F446RE board.
+The code examples, documentation, and resources provided in this tutorial are based on my personal experience and learning journey. It is hoped that this tutorial will be a valuable resource for those looking to learn and master the fundamentals of bare metal programming on the [STM32-NUCLEO-F446RE](https://www.amazon.com/dp/B01I8XLEM8?ref=nb_sb_ss_w_as-reorder-t1_k0_1_6&amp=&crid=3UWZFF22O7A47&amp=&sprefix=stm32+) board.
 
 ## Downloads 
 Before diving into the tutorial, it's important to download and review the User Manual, Reference Manual, and Data Sheet for the STM32-Nucleo64 development board. These resources provide comprehensive information about the board and its underlying microcontroller, and are essential for understanding how to use the board and follow along with the examples in this tutorial.
