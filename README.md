@@ -21,8 +21,16 @@ This section contains a list of the topics covered in this tutorial, along with 
 By following this table of contents, you'll be able to explore each topic in-depth and develop your own bare metal programs with confidence.
 
 Here are the topics covered in this tutorial:
-| Section  | Link |
+| Topic  | Description |
 | :------- | :------: | 
-|  LED_Blinking   | Center   | 
-| Left     | Center   | 
-| Left     | Center   |
+|  LED_Blinking  | Coming Soon |
+| GPIO_Driver  | Coming Soon |
+| UART   | Coming Soon |
+| ADC   | Coming Soon |
+| SysTick Timer | Coming Soon |
+| UART | Coming Soon |
+| General Purpose Timers | Coming Soon |
+| Interrupts | Coming Soon |
+| DMA | Coming Soon |
+| I2C | Coming Soon |
+| SPI | Coming Soon |
